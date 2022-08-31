@@ -1,0 +1,126 @@
+.question2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5%;
+}
+
+.card-2 {
+  margin: auto;
+}
+
+.btn-2,
+.title-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  font-weight: 600;
+}
+
+.home-div {
+  padding: 10rem;
+  color: dimgray;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-footer {
+  margin-top: 20px;
+  font-weight: 600;
+  color: #888888;
+}
+
+.q1-form {
+  padding: 10rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-label {
+  padding: 5px;
+}
+
+.q1-btn {
+  text-align: center;
+}
+
+.card-main {
+  margin: auto;
+  margin-top: 15%;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.card-main-1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 150px;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.card-main-2 {
+  width: 150px;
+  height: 100px;
+  margin-top: -50px;
+  margin-left: 180px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.card-main-3 {
+  width: 150px;
+  height: 100px;
+  margin-top: -100px;
+  margin-left: 340px;
+  border: 1px solid black;
+  background-color: #0096FF;
+  text-align: center;
+}
+
+.card-main-4 {
+  width: 150px;
+  height: 100px;
+  margin-top: 30px;
+  margin-left: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.card-main-5 {
+  width: 150px;
+  height: 50px;
+  margin-top: -90px;
+  margin-left: 180px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.card-main-6 {
+  width: 150px;
+  height: 80px;
+  margin-top: -50px;
+  margin-left: 340px;
+  border: 1px solid black;
+  background-color: #0096FF;
+  text-align: center;
+}
+
+/* @media (min-width: 1000px) {
+  .card-main {
+    width: 300px;
+    height: 500px;
+  }
+} */
